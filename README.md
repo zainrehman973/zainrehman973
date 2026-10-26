@@ -8,7 +8,7 @@ MSc Cyber Security graduate (UWE) | Tier 1 SOC Analyst experience | Based in Lon
 - Digital forensics, network security and penetration testing
 
 ## Projects
-- Splunk SOC Home Lab (coming soon)
+- Splunk SOC Home Lab (https://github.com/zainrehman973/splunk-soc-home-lab) (in progress)
 - Nmap and Wireshark scan analysis (coming soon)
 
 ## Connect
