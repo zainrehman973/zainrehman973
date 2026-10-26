@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Zain 👋
 
-<!--
-**zainrehman973/zainrehman973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Cyber Security graduate (UWE) | Tier 1 SOC Analyst experience | Based in London, UK
 
-Here are some ideas to get you started:
+## What I do
+- Monitor and triage security alerts, escalate incidents
+- Hands-on with Splunk, Wireshark, Nmap and Kali Linux
+- Digital forensics, network security and penetration testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Splunk SOC Home Lab (coming soon)
+- Nmap and Wireshark scan analysis (coming soon)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/zainrehman973/)
